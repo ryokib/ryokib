@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @curlywurli  
-- 👀 I’m interested in cybersecurity 
+- 👀 a cybersecurity student
 - 🌱 I’m currently learning programming in C and Python for my studies, ethycal hacking, ect
 - 💞️ I’m looking to collaborate on joint learning, sharing best practices
 - 📫 How to reach me: by email ryokib@gmail.com
