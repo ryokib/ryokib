@@ -2,7 +2,7 @@
 - 👀 a cybersecurity student
 - 🌱 I’m currently learning programming in C and Python for my studies, ethycal hacking, ect
 - 💞️ I’m looking to collaborate on joint learning, sharing best practices
-- 📫 How to reach me: by email ryokib@gmail.com
+- 📫 How to reach me: by email wurlyc1@gmail.com
 
 <!---
 ryokib/ryokib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
